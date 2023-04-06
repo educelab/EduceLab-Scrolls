@@ -1,8 +1,8 @@
 # EduceLab-Scrolls
 
-### [Paper](https://raw.githubusercontent.com/educelab/EduceLab-Scrolls/main/paper/EduceLab-Scrolls.pdf) | Code ([ink-id](https://github.com/educelab/ink-id) + [Volume Cartographer](https://github.com/educelab/volume-cartographer))
+### [Paper](https://arxiv.org/abs/2304.02084) | Code ([ink-id](https://github.com/educelab/ink-id) + [Volume Cartographer](https://github.com/educelab/volume-cartographer))
 
-[EduceLab-Scrolls: Verifiable Recovery of Text from Herculaneum Papyri using X-ray CT](https://raw.githubusercontent.com/educelab/EduceLab-Scrolls/main/paper/EduceLab-Scrolls.pdf) <br>
+[EduceLab-Scrolls: Verifiable Recovery of Text from Herculaneum Papyri using X-ray CT](https://arxiv.org/abs/2304.02084) <br>
 [Stephen Parsons](https://srparsons.com/)<sup>1</sup>,
 [C. Seth Parker](https://www2.cs.uky.edu/dri/seth-parker/)<sup>1</sup>,
 [Christy Chapman](https://educelab.engr.uky.edu/christy-chapman)<sup>1</sup>,
